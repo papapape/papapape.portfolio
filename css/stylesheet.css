@@ -115,19 +115,10 @@ header ul li{
   color: black;
   padding: 30px;
 }
-
-@keyframes blink{
-  50%{opacity: 0;}
-}
 .section-title{
   display: inline-block;
   border-bottom: 1px solid white;
 }
-
-.SPnav{
-  display: none;
-}
-
 @media (max-width: 678px) {
   /* menu */
   .header-nav{
